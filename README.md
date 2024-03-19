@@ -17,9 +17,18 @@ This project involves prediction of heart failure using 11 features which are:
 -------------------------------------------------------------------------------
 
 # Algorithm used for classification the heart failure prediction
-# 1)Logistic regression
+## [1)Logistic regression](Logistic regression is a statistical method used for binary classification tasks, such as predicting whether an event will occur or not.
+In the context of heart failure prediction, logistic regression analyzes patient data (features like age, sex, cholesterol levels, etc.) to calculate the probability of the patient experiencing heart failure.
+It estimates the probability using a logistic function, which maps input features to a value between 0 and 1, representing the probability of the positive class (heart failure).
+Logistic regression learns the relationship between input features and the binary outcome (heart failure or no heart failure) by adjusting coefficients during training.
+During prediction, logistic regression classifies patients as either having a high or low risk of heart failure based on the calculated probability threshold.)
 
-# 2)RandomForestClassifier
+## [2)RandomForestClassifier](Random forest classifier is an ensemble learning method based on decision trees.
+It works by creating multiple decision trees during training, each based on a random subset of the input features and data samples.
+Each decision tree independently predicts the outcome (heart failure or no heart failure) based on the input features.
+During prediction, the random forest aggregates the predictions from all decision trees to make a final prediction. It typically uses voting or averaging to determine the majority prediction.
+Random forest classifier is robust to overfitting and can handle large datasets with high dimensionality effectively.
+It's capable of capturing complex relationships between input features and the target variable, making it suitable for heart failure prediction tasks.)
 
 
 
