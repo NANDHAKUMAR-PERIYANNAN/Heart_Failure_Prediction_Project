@@ -15,3 +15,6 @@ This project involves prediction of heart failure using 11 features which are:
 -`ST_Slope`: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 -`HeartDisease`: output class [1: heart disease, 0: Normal]
 -------------------------------------------------------------------------------
+
+
+#Sample datasets Testing
