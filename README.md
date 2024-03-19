@@ -16,17 +16,21 @@ This project involves prediction of heart failure using 11 features which are:
 -`HeartDisease`: output class [1: heart disease, 0: Normal]
 -------------------------------------------------------------------------------
 
-#Algorithm used for classification the heart failure prediction
+# Algorithm used for classification the heart failure prediction
+# 1)Logistic regression
+
+# 2)RandomForestClassifier
 
 
 
-#Sample Datasets given to test both model
+# Sample Datasets given to test both model
 ![sample_Input](https://github.com/NANDHAKUMAR-PERIYANNAN/Heart_Failure_Prediction_Project/assets/93268682/f8905806-89e6-4a1a-b054-fc057d452918)
 
-#Output corresponding to the datasets given to both model
+# Output corresponding to the datasets given to both model
 ![result](https://github.com/NANDHAKUMAR-PERIYANNAN/Heart_Failure_Prediction_Project/assets/93268682/87a658d7-f16a-4bf4-8adf-9b2b7cf5a399)
 
-#Evaluation of model performance with 70:30(training:testing) from 918 datasets
-![classification_report_logisticregression](https://github.com/NANDHAKUMAR-PERIYANNAN/Heart_Failure_Prediction_Project/assets/93268682/f7eff60f-bb04-43cd-94c6-272765fa2134)
+# Evaluation of model performance with 70:30(training:testing) from 918 datasets
 ![Evaluating the model_logistic regression](https://github.com/NANDHAKUMAR-PERIYANNAN/Heart_Failure_Prediction_Project/assets/93268682/bb444900-268c-4c34-9a3a-fd3dfc67e753)
+![classification_report_logisticregression](https://github.com/NANDHAKUMAR-PERIYANNAN/Heart_Failure_Prediction_Project/assets/93268682/f7eff60f-bb04-43cd-94c6-272765fa2134)
+
 
